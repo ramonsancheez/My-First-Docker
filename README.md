@@ -1,6 +1,6 @@
 # My-First-Docker
 
-Practica docker: mi primer docker realizado con Matias Gomez, Arturo Garrido y Joan Llompart.
+Practica docker: mi primer docker realizado con [@MatiasAGomezJ] (https://github.com/MatiasAGomezJ), [@Durutui] (https://github.com/Durutui) y [@JoanLlompart] (https://github.com/JoanLlompart).
 
  #### Preparamos el directorio donde copiaremos los archivos locales al contenedor, para ello, utilizaremos el comando:
 
